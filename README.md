@@ -1,3 +1,2 @@
 # Miscellaneous
- Programs that are made for fun
- Bunch of tests
+ Programs that are made for fun  Bunch of tests
